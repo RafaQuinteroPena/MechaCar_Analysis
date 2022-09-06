@@ -1,7 +1,7 @@
 # MechaCar_Analysis
 ## Linear Regression to Predict MPG
 The dataset provides 3 non random amounts of variance: vehicle_weight, spoiler_angle and AWD. Furthermore, the maximun random variance was provided by ground_clearence and vehicle_lenght.
-
+![alt text](https://github.com/rafaq2000/MechaCar_Analysis/blob/main/Variables.png)
 
 
 We have a p-value that is less than zero, this means the slope is not equal to 0
