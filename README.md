@@ -16,5 +16,12 @@ The R squared value is 71.49%, this would imply that roughly 72% of the time the
 ![alt text](https://github.com/rafaq2000/MechaCar_Analysis/blob/main/r_squared.png)
 
 
+## Summary Statistics on Suspension Coils
+
+The current data meets the PSI requirement for Lot 1 and Lot 2 but exceeds the limit for Lot 3 by roughly 70 PSI. However, as a whole, when added together, they are below the required PSI of 100
+
+
+
+
 
 
