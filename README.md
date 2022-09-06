@@ -23,6 +23,6 @@ The current data meets the PSI requirement for Lot 1 and Lot 2 but exceeds the l
 ![alt text](https://github.com/rafaq2000/MechaCar_Analysis/blob/main/total.png)      ![alt text](https://github.com/rafaq2000/MechaCar_Analysis/blob/main/lot_number.png)
 
 
+## Study Design: MechaCar vs Competition
 
-
-
+We can test the fuel efficiency of ther MechaCar against the competition to see if the MPG (miles per gallon) are substantially less, to appeal to buyers. The data needed would be the average of miles the MechaCar drrives per gallon, also, the average speed it travels.
